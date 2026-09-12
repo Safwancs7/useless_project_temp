@@ -2,96 +2,72 @@
 
 
 
-# [Project Name] 🎯
+# Predict Next Day 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: NEXUS
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Muhammad Safwan C S  - SNGCE
+- Member 2: Nidha Fazlin V A - SNGCE
 
 ### Project Description
-[2-3 lines about what your project does]
+Disguised as a high-security deep space telemetry console, the Day Predictor harnesses orbital metrics and planetary simulations to answer humanity's greatest mystery: what happens tomorrow? Built with responsive HTML, CSS, and vanilla JavaScript, it pairs cutting-edge aesthetics with delightfully useless results.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Remembering the 7 days of the week requires unacceptable amounts of mental energy, and standard calendars are too polite. People were in desperate need of an orbital supercomputer that takes 10 seconds of dramatic loading just to tell them to go to sleep or get a real job.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built the Temporal Intelligence System v9.7.3—a sci-fi terminal that looks like it belongs in NASA mission control just to handle 7 static strings. When you type in a day, our system executes an intensive 10-second orbital scan, interrogates orbiting satellites, calculates Earth's rotational drift, and pushes planetary telemetry to 100%—only to return ruthless life advice like "Noki irikkathe ollu" (keep waiting) and "Vella panikkum po" (go get a job).
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML, JS, CSS
+- VS Code, AntiGravity
+- HTML5, Vannila JS
+- ChatGPT, Co-pilot
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/day-predictor.git
+   cd day-predictor
+   ```
+Method 2: Using a Local Development Server (Recommended)
+If you prefer running it on a local server:
 
+Using Python:
+```bash
+# Python 3
+python -m http.server 3000
+Then visit: http://localhost:3000
+```
+Using Node (npx):
+```bash
+npx serve .
+```
 # Run
-[commands]
-
+```
+start index.html
+```
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+<img width="837" height="867" alt="Screenshot 2026-09-12 073906" src="https://github.com/user-attachments/assets/f2155adc-910d-41be-87e0-fb39986aa4ff" />
+<hr style="height:5px;border-width:0;color:black;background-color:black">
+<img width="1576" height="770" alt="Screenshot 2026-09-12 073933" src="https://github.com/user-attachments/assets/ae366f48-4f2d-47f6-a9bd-d887f4c08494" />
+<hr style="height:5px;border-width:0;color:black;background-color:black">
+<img width="1427" height="585" alt="Screenshot 2026-09-12 074006" src="https://github.com/user-attachments/assets/be942108-da27-42b7-b2a8-60f85cb43958" />
+<hr style="height:5px;border-width:0;color:black;background-color:black">
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nidha Fazlin V A: UI interface, Frontend Development, Bug fixing
+- Muhammad Safwan C S: Idea Generation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
